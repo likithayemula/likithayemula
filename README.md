@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Likith Ayemula</h1>
+<h1 align="center">Hi 👋, I'm Likitha Yemula</h1>
 <h3 align="center">A passionate about Data Science Enthusiast | Aspiring Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=likithayemula&label=Profile%20views&color=0e75b6&style=flat" alt="likithayemula" /> </p>
